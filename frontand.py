@@ -29,7 +29,7 @@ while True:
         sleep(2)
         break
     else:
-        print("Nehum candidato tem o numero digitado, for favor digite novamente")
+        print("Nenhum candidato tem o numero digitado, for favor digite novamente")
         sleep(2)
         back.os.system("clear || cls")
 
@@ -83,7 +83,7 @@ while True:
         sleep(2)
         break
     else:
-        print("Nehum candidato tem o numero digitado, for favor digite novamente")
+        print("Nenhum candidato tem o numero digitado, for favor digite novamente")
         sleep(2)
         back.os.system("clear || cls")
 
